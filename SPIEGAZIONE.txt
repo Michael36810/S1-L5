@@ -1,0 +1,17 @@
+SPIEGAZIONE
+
+Principali differenze di intercettazione del traffico tra HTTP e HTTPS:
+
+Per quanto riguarda la crittografia dei dati, il traffico HTTP è in chiaro nella rete quindi i dati non sono crittografati, invece HTTPS è crittografato utilizzando SSL/TLS.
+
+Per le porte in HTTP ho utilizzato la porta 80, invece per HTTPS ho utilizzato la porta 443.
+
+Per il discorso sicurezza, HTTP non offre protezione per la privacy quindi i dati sono tutti i chiaro, invece HTTPS fornisce una connessione sicura e soprattutto crittografata.
+
+Per HTTP non richiede l'uso di certificati SSL/TLS a differenza di HTTPS che li richiede per stabilire la connessione sicura.
+
+HTTP è vulnerabile agli attacchi MitM essendo in chiaro, invece HTTPS è molto più difficile intercettare e decriptare i dati.
+
+CONSIDERAZIONE FINALE
+
+E' fortemente consigliato usare HTTPS per una maggiore sicurezza di dati e privacy.
