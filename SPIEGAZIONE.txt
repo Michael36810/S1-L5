@@ -14,4 +14,5 @@ HTTP è vulnerabile agli attacchi MitM essendo in chiaro, invece HTTPS è molto 
 
 CONSIDERAZIONE FINALE
 
-E' fortemente consigliato usare HTTPS per una maggiore sicurezza di dati e privacy.
+Abbiamo visto che in HTTPS utilizza il protocollo TLSv1 per criptare i dati.
+Quindi è fortemente consigliato usare HTTPS per una maggiore sicurezza di dati e privacy.
